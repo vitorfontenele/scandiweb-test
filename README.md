@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://github.com/vitorfontenele/scandiweb-test">
-    <img src="https://user-images.githubusercontent.com/93079439/231782450-b68f12c3-4b82-4f9b-b0d8-9ff7610c7a4f.png" alt="Logo" width="500">
-  </a>
+  <img src="./frontend/public/scandiweb-logo.png" height="80" width="80" alt="Scandiweb Logo" />
   <h3 align="center">scandiweb-test</h3>
   <a href="https://vitor-fontenele-scandiweb-test.000webhostapp.com/">https://vitor-fontenele-scandiweb-test.000webhostapp.com/</a>
 </div>
@@ -15,7 +13,7 @@ It consists in creating a web-app containing two pages:
 1) A product list page
 2) An add product page
 
-Final result: [https://vitor-fontenele-scandiweb-test.000webhostapp.com/](https://vitor-fontenele-scandiweb-test.000webhostapp.com/)
+Final result: [Link](https://vitor-fontenele-scandiweb-test.000webhostapp.com/)
 
 ## Structure
 
@@ -65,4 +63,13 @@ npm run dev
 
 Also pay attention to the BASE_URL defined inside of `src/constants/urls`, it must be defined according to where the backend is running.
 
+## Screenshots
+
+### Product List Page
+
+<img src="https://user-images.githubusercontent.com/93079439/231782450-b68f12c3-4b82-4f9b-b0d8-9ff7610c7a4f.png" alt="Product list page" width="100%">
+
+### Add Product Page
+
+<img src="https://user-images.githubusercontent.com/93079439/231785025-e8e76b84-2309-4e82-a9cd-9e8a8c0c980f.png" alt="Add product page" width="100%">
 
