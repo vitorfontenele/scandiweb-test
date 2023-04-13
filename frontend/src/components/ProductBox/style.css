@@ -1,0 +1,42 @@
+.product-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+    border: 1px solid #CACED1;
+    border-radius: 8px;
+    min-height: 250px;
+    padding: 24px;
+    background-color: #ECF1F4;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    animation: fadeIn 1s;
+}
+
+.delete-checkbox{
+    position: absolute;
+    top: 8px;
+    left: 8px;
+}
+
+.product-sku, .product-name, .product-price, .product-special-attributes{
+    text-align: center;
+}
+
+.product-sku{
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.product-name{
+    font-weight: 600;
+}
+
+.product-price{
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.product-special-attributes{
+    font-weight: 500;
+}

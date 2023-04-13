@@ -1,0 +1,24 @@
+#header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: .5px solid #CACED1;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+  
+#header-buttons{
+    display: flex;
+    flex-direction: row;
+    column-gap: 8px;
+}
+
+@media screen and (max-width: 520px){
+    #header{
+        display: block;
+    }
+
+    #header-buttons{
+        margin-top: 8px;
+    }
+}

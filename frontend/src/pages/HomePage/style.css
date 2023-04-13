@@ -1,0 +1,17 @@
+#home-main-content{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 8px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+#delete-warning{
+    color: #ED4B9E;
+    font-weight: 500;
+    margin-top: 8px;
+    text-align: right;
+    animation: fadeIn 1s;
+}
+
+
