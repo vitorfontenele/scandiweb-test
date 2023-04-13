@@ -37,7 +37,7 @@ The frontend was made using React, even though it was not mandatory.
 
 To run the project locally, you wil need a local Apache Server. 
 
-A good recomendation is to use XAMPP. XAMPP is a popular PHP development environment and it also contains MySQL.
+A good recomendation is to use [XAMPP](https://www.apachefriends.org/pt_br/index.html). XAMPP is a popular PHP development environment and it also contains MySQL.
 
 You will also need to install composer.
 
