@@ -1,3 +1,5 @@
+<a name="readme-top"></a>
+
 <div align="center">
   <img src="./frontend/public/scandiweb-logo.png" height="80" width="80" alt="Scandiweb Logo" />
   <h3 align="center">scandiweb-test</h3>
@@ -15,6 +17,8 @@ It consists in creating a web-app containing two pages:
 
 Final result: [Link](https://vitor-fontenele-scandiweb-test.000webhostapp.com/)
 
+<p align="right">(<a href="#readme-top">back to the top</a>)</p>
+
 ## Structure
 
 ### Backend
@@ -24,6 +28,8 @@ The backend was made using PHP (plain classes, no frameworks, using an OOP appro
 ### Frontend
 
 The frontend was made using React, even though it was not mandatory.
+
+<p align="right">(<a href="#readme-top">back to the top</a>)</p>
 
 ## Installation
 
@@ -63,6 +69,8 @@ npm run dev
 
 Also pay attention to the BASE_URL defined inside of `src/constants/urls`, it must be defined according to where the backend is running.
 
+<p align="right">(<a href="#readme-top">back to the top</a>)</p>
+
 ## Screenshots
 
 ### Product List Page
@@ -73,3 +81,17 @@ Also pay attention to the BASE_URL defined inside of `src/constants/urls`, it mu
 
 <img src="https://user-images.githubusercontent.com/93079439/231785025-e8e76b84-2309-4e82-a9cd-9e8a8c0c980f.png" alt="Add product page" width="100%">
 
+<p align="right">(<a href="#readme-top">back to the top</a>)</p>
+
+ ## Contact
+ 
+Feel free to get in touch!
+
+[![Github][github-shield]][github-url][![Linkedin][linkedin-shield]][linkedin-url]
+
+<p align="right">(<a href="#readme-top">back to the top</a>)</p>
+
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[linkedin-url]: https://www.linkedin.com/in/vitor-fontenele/
+[github-shield]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+[github-url]: https://github.com/vitorfontenele
